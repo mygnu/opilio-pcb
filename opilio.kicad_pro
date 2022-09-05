@@ -15,7 +15,7 @@
         "dimensions": {
           "arrow_length": 1270000,
           "extension_offset": 500000,
-          "keep_text_aligned": true,
+          "keep_text_aligned": false,
           "suppress_zeroes": false,
           "text_position": 0,
           "units_format": 1
@@ -37,14 +37,14 @@
           "height": 1.524,
           "width": 1.524
         },
-        "silk_line_width": 0.19999999999999998,
+        "silk_line_width": 0.09999999999999999,
         "silk_text_italic": false,
-        "silk_text_size_h": 0.7999999999999999,
-        "silk_text_size_v": 1.0,
+        "silk_text_size_h": 0.5,
+        "silk_text_size_v": 0.7,
         "silk_text_thickness": 0.08,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
+          "45_degree_only": true,
           "min_clearance": 0.508
         }
       },
@@ -126,7 +126,8 @@
         0.4,
         0.5,
         0.7,
-        1.0
+        1.0,
+        1.2
       ],
       "via_dimensions": [
         {
@@ -365,7 +366,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "opilio3.1.kicad_pro",
+    "filename": "opilio4.0.kicad_pro",
     "version": 1
   },
   "net_settings": {
