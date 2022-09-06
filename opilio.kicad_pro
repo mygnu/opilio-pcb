@@ -44,7 +44,7 @@
         "silk_text_thickness": 0.08,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": true,
+          "45_degree_only": false,
           "min_clearance": 0.508
         }
       },
@@ -366,7 +366,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "opilio4.0.kicad_pro",
+    "filename": "opilio.kicad_pro",
     "version": 1
   },
   "net_settings": {
