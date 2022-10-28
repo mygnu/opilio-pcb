@@ -9,4 +9,5 @@ gerber**
 *-backups
 logs*
 
+production/*
 fp-info-cache
