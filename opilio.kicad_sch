@@ -5072,7 +5072,7 @@
   (symbol (lib_id "easyeda:NCE30P30K") (at 254.254 75.819 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 17dc01c9-664b-4e95-9d41-5f7ea06392f0)
-    (property "Reference" "Q3" (id 0) (at 260.729 74.9843 0)
+    (property "Reference" "Q2" (id 0) (at 260.729 74.9843 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "NCE30P30K" (id 1) (at 260.729 77.5212 0)
@@ -8147,7 +8147,7 @@
       (reference "Q1") (unit 1) (value "CJ3134KW") (footprint "easyeda2kicad:SC-70-3_L2.1-W1.3-P1.30-LS2.1-BR")
     )
     (path "/17dc01c9-664b-4e95-9d41-5f7ea06392f0"
-      (reference "Q3") (unit 1) (value "NCE30P30K") (footprint "easyeda2kicad:TO-252-2_L6.6-W6.1-P4.57-LS9.9-TL-CW")
+      (reference "Q2") (unit 1) (value "NCE30P30K") (footprint "easyeda2kicad:TO-252-2_L6.6-W6.1-P4.57-LS9.9-TL-CW")
     )
     (path "/be987873-4856-4ad7-aaee-745ffdc5e733"
       (reference "R1") (unit 1) (value "100K") (footprint "Resistor_SMD:R_0402_1005Metric")
