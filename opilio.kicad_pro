@@ -470,6 +470,18 @@
     [
       "1fd8049d-01e3-48fd-a73a-49757ed6cc50",
       ""
+    ],
+    [
+      "8de2dfd4-e2ce-4b58-a73c-eb39ba707cfb",
+      "Power"
+    ],
+    [
+      "97d4ce3e-854e-482d-a432-e7eeba0a2295",
+      "fan_connectors"
+    ],
+    [
+      "8e36b5a2-d2db-40c0-9b7c-521fc0468cf3",
+      "io"
     ]
   ],
   "text_variables": {}
