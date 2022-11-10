@@ -1,0 +1,13 @@
+AR checking written on:
+'/home/comrade/KiCad/opilio-pcb/opilio_AR-Check.txt'
+'action_menu_annular_check.py'
+version = 1.7.2
+Testing PCB for Annular Rings
+TH Pads >= 0.125 Vias >= 0.125
+PHD margin on PTH = 0
+
+VIAS that Pass = 96; Fails = 0
+AR PTH violation of 0.0 at XY 177.955,106.67
+AR PTH violation of 0.0 at XY 177.955,133.37
+TH PADS that Pass = 76; Fails = 2
+NPTH PADS that Pass = 0; Fails = 0

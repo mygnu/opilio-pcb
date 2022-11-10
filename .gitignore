@@ -8,5 +8,7 @@ gerber**
 *.zip
 *-backups
 logs*
+*.log
 
+production/*
 fp-info-cache

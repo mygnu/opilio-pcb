@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 3.0,
+          "height": 6.0,
+          "width": 6.0
         },
         "silk_line_width": 0.09999999999999999,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.25
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -55,10 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "silk_over_copper|179999551|117545000|e1abe4f3-2b59-428e-ba06-8ea749fc8279|9a1be57d-e318-4a2e-b147-7c98a29a30a4",
-        "silk_over_copper|179999853|108605000|e1abe4f3-2b59-428e-ba06-8ea749fc8279|ef2cf2d9-2bda-4157-9cb5-5febb169bbcf"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -473,6 +470,18 @@
     [
       "1fd8049d-01e3-48fd-a73a-49757ed6cc50",
       ""
+    ],
+    [
+      "8de2dfd4-e2ce-4b58-a73c-eb39ba707cfb",
+      "Power"
+    ],
+    [
+      "97d4ce3e-854e-482d-a432-e7eeba0a2295",
+      "fan_connectors"
+    ],
+    [
+      "8e36b5a2-d2db-40c0-9b7c-521fc0468cf3",
+      "io"
     ]
   ],
   "text_variables": {}
