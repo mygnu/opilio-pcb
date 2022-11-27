@@ -2946,9 +2946,6 @@
     (path "/8e36b5a2-d2db-40c0-9b7c-521fc0468cf3/395256f5-842b-4042-86e3-d9bfaf28ca31"
       (reference "#PWR062") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/8e36b5a2-d2db-40c0-9b7c-521fc0468cf3/66fa0a24-c163-4e44-a3ca-24ab7f387ca7"
-      (reference "#PWR063") (unit 1) (value "GND") (footprint "")
-    )
     (path "/8e36b5a2-d2db-40c0-9b7c-521fc0468cf3/42ce54bb-7617-4643-b3a2-f0441ddfa9f5"
       (reference "#PWR064") (unit 1) (value "GND") (footprint "")
     )
@@ -2975,6 +2972,9 @@
     )
     (path "/f22ce4c1-3a35-4eb9-97b5-490e45c14326"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8e36b5a2-d2db-40c0-9b7c-521fc0468cf3/bc588849-eb17-481e-a929-f30ed36c819b"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/8e36b5a2-d2db-40c0-9b7c-521fc0468cf3/701d4014-750c-4276-ba19-a7baa7db696f"
       (reference "BUZZER1") (unit 1) (value "HNB09A03") (footprint "easyeda2kicad:BUZ-TH_BD9.0-P5.00-D0.6-FD")
