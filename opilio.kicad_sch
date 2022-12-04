@@ -2946,9 +2946,6 @@
     (path "/8e36b5a2-d2db-40c0-9b7c-521fc0468cf3/395256f5-842b-4042-86e3-d9bfaf28ca31"
       (reference "#PWR062") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/8e36b5a2-d2db-40c0-9b7c-521fc0468cf3/66fa0a24-c163-4e44-a3ca-24ab7f387ca7"
-      (reference "#PWR063") (unit 1) (value "GND") (footprint "")
-    )
     (path "/8e36b5a2-d2db-40c0-9b7c-521fc0468cf3/42ce54bb-7617-4643-b3a2-f0441ddfa9f5"
       (reference "#PWR064") (unit 1) (value "GND") (footprint "")
     )
@@ -2975,6 +2972,9 @@
     )
     (path "/f22ce4c1-3a35-4eb9-97b5-490e45c14326"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8e36b5a2-d2db-40c0-9b7c-521fc0468cf3/bc588849-eb17-481e-a929-f30ed36c819b"
+      (reference "#PWR0102") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/8e36b5a2-d2db-40c0-9b7c-521fc0468cf3/701d4014-750c-4276-ba19-a7baa7db696f"
       (reference "BUZZER1") (unit 1) (value "HNB09A03") (footprint "easyeda2kicad:BUZ-TH_BD9.0-P5.00-D0.6-FD")
@@ -3085,19 +3085,19 @@
       (reference "F2") (unit 1) (value "2A") (footprint "Fuse:Fuse_1206_3216Metric")
     )
     (path "/97d4ce3e-854e-482d-a432-e7eeba0a2295/6791f69a-1b9c-4022-9b30-29b9ff2496b8"
-      (reference "FAN1") (unit 1) (value "Fan_4pin") (footprint "Custom:FanPinHeader_1x04_P2.54mm_Horizontal_no_hole")
-    )
-    (path "/97d4ce3e-854e-482d-a432-e7eeba0a2295/1958fe2e-8cfa-4ced-9069-fca23ee5238d"
       (reference "FAN2") (unit 1) (value "Fan_4pin") (footprint "Custom:FanPinHeader_1x04_P2.54mm_Horizontal_no_hole")
     )
-    (path "/97d4ce3e-854e-482d-a432-e7eeba0a2295/c4374377-708a-4e8e-9fb9-302a97812847"
+    (path "/97d4ce3e-854e-482d-a432-e7eeba0a2295/1958fe2e-8cfa-4ced-9069-fca23ee5238d"
       (reference "FAN3") (unit 1) (value "Fan_4pin") (footprint "Custom:FanPinHeader_1x04_P2.54mm_Horizontal_no_hole")
     )
-    (path "/97d4ce3e-854e-482d-a432-e7eeba0a2295/a990fe9a-2086-43fa-882d-53b354a98c2b"
+    (path "/97d4ce3e-854e-482d-a432-e7eeba0a2295/564978fc-921e-435c-912a-a87c372dc24c"
       (reference "FAN4") (unit 1) (value "Fan_4pin") (footprint "Custom:FanPinHeader_1x04_P2.54mm_Horizontal_no_hole")
     )
-    (path "/97d4ce3e-854e-482d-a432-e7eeba0a2295/564978fc-921e-435c-912a-a87c372dc24c"
+    (path "/97d4ce3e-854e-482d-a432-e7eeba0a2295/a990fe9a-2086-43fa-882d-53b354a98c2b"
       (reference "FAN5") (unit 1) (value "Fan_4pin") (footprint "Custom:FanPinHeader_1x04_P2.54mm_Horizontal_no_hole")
+    )
+    (path "/97d4ce3e-854e-482d-a432-e7eeba0a2295/c4374377-708a-4e8e-9fb9-302a97812847"
+      (reference "FAN6") (unit 1) (value "Fan_4pin") (footprint "Custom:FanPinHeader_1x04_P2.54mm_Horizontal_no_hole")
     )
     (path "/8de2dfd4-e2ce-4b58-a73c-eb39ba707cfb/cbe21ee9-677d-4d3b-9595-e85026a9a2e3"
       (reference "FB1") (unit 1) (value "CBW321609U600") (footprint "Capacitor_SMD:C_1206_3216Metric")
