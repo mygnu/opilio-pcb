@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Opilio")
-		(date "2022-11-07")
-		(rev "7")
+		(date "2024-03-09")
+		(rev "8")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Male"
